@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" height="250"/>
   <h1>👋 Hello! I'm Raymond</h1>
   <p>
-I'm a software engineer with a love for Frontend and Backend web development, Data Science, Machine Learning and Artificial Intelligence.  
+I'm a software engineer with a love for Frontend development, Data Science, Machine Learning and Artificial Intelligence.  
 </p>
 <div align="center">
   
