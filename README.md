@@ -6,9 +6,8 @@ I'm a software engineer with a love for Frontend and Backend web development, Da
 </p>
 <div align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raymond-nimalan/)](https://www.linkedin.com/in/raymond-nimalan/)
-  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raymondnimalan@gmail.com)](mailto:raymondnimalan@gmail.com)
-  [![Behance Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&label&logo=Behance&link=https://www.behance.net/syrashid)](https://www.behance.net/syrashid)
+  [![Linkedin Badge](https://img.shields.io/badge/-raymondnimalan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raymond-nimalan/)](https://www.linkedin.com/in/raymond-nimalan/)
+  [![Gmail Badge](https://img.shields.io/badge/-raymondnimalan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raymondnimalan@gmail.com)](mailto:raymondnimalan@gmail.com)
 </div>
   
 </div>
