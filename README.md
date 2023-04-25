@@ -11,6 +11,11 @@ I'm a software engineer with a love for Frontend development, Data Science, Mach
 </div>
 </div>
 
+### Quick stats about me
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=raymondnimalan&show_icons=true&title_color=4078c0&icon_color=4078c0&text_color=FFFFFF&bg_color=151515&count_private=true) | ![Raymond's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondnimalan&show_icons=true&title_color=4078c0&icon_color=4078c0&text_color=FFFFFF&bg_color=151515&count_private=true&layout=compact) |
+
 
 
 
