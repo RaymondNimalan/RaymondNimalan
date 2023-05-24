@@ -4,6 +4,8 @@
   <p>
 I'm a software engineer with a love for Frontend development, Data Science, Machine Learning and Artificial Intelligence.  
 </p>
+  
+   [Check out my Portfolio Website!](https://raymondnimalan.netlify.app/)
 <div align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-raymondnimalan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raymond-nimalan/)](https://www.linkedin.com/in/raymond-nimalan/)
